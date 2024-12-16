@@ -112,10 +112,3 @@ If you use this project or its findings, please cite the following works:
 - Lien, S., et al. (2016). _The Atlantic salmon genome provides insights into rediploidization_. Nature.
 
 ---
-
-## Contributors
-- **Project Lead**: [Your Name]
-- **Analysis and Code**: [Contributor Names]
-- **Model Integration**: [Contributor Names]
-
-For any inquiries, please contact: [Your Contact Information]
