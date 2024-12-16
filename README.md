@@ -72,7 +72,7 @@ Identify the reaction fluxes responsible for growth inhibition at higher tempera
 
 2. **Metabolic Model**
    - _"SALARECON connects the Atlantic salmon genome to growth and feed efficiency"_ (PLOS Computational Biology, 2016).
-   - Model repository: [SALARECON GitHub](https://github.com/project/SALARECON).
+   - Model repository: [SALARECON GitHub](https://github.com/ThieleLab/ImprovAFish).
 
 3. **Genome Data**
    - Lien et al., 2016. _"The Atlantic salmon genome provides insights into rediploidization"_ (Nature).
