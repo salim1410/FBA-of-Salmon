@@ -62,7 +62,7 @@ Identify the reaction fluxes responsible for growth inhibition at higher tempera
 
 ### Optimized Model
 - The SALARECON model was modified based on enzyme flux adjustments.
-- Predicted growth rates improved under simulated warmer conditions.
+- Modifying various exchange fluxes (cobalt, magnesium, cobalamin, ammonium, and tungsten) had minimal impact on the model's predicted growth rate, with slight variations observed due to floating-point precision. In most cases, the changes in fluxes did not lead to significant differences in the slim optimization results, indicating that these particular fluxes may not be critical for growth under the given conditions. The only notable exception was when the ammonium exchange flux was set to zero, leading to an almost infeasible optimization result. Overall, the model's growth prediction remained robust despite these modifications.
 
 ---
 
